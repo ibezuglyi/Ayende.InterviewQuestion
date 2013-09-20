@@ -1,0 +1,6 @@
+d:\samples\ayende.com\ayende.com\bin\Debug\ayende.com.exe.config
+d:\samples\ayende.com\ayende.com\bin\Debug\ayende.com.exe
+d:\samples\ayende.com\ayende.com\bin\Debug\ayende.com.pdb
+d:\samples\ayende.com\ayende.com\obj\Debug\ayende.com.csprojResolveAssemblyReference.cache
+d:\samples\ayende.com\ayende.com\obj\Debug\ayende.com.exe
+d:\samples\ayende.com\ayende.com\obj\Debug\ayende.com.pdb
