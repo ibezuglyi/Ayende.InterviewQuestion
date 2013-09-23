@@ -32,11 +32,8 @@ namespace ayende.com
                     seqLo.AddRange(seqHi);
 
                     lists.Remove(seqHi);
-
                 }
-
             }
-
 
             foreach (var seq in lists)
             {
